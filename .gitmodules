@@ -1,0 +1,6 @@
+[submodule "rs232"]
+	path = rs232
+	url = https://gitlab.com/Teuniz/RS-232
+[submodule "pushbullet"]
+	path = pushbullet
+	url = https://github.com/11mariom/pushbullet
